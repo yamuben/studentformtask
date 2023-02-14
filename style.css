@@ -1,0 +1,12 @@
+.card{
+    background: rgb(207, 207, 207) !important;
+}
+.card input{
+    padding:1rem ;
+    width: 70%;
+
+}
+.card button{
+    width: 70%;
+    padding: 1rem;
+}
